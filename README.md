@@ -1,7 +1,7 @@
 # CSC14005_Project  
 
 This project involves implementing Machine Learning models based on the **CIFAR-10** dataset  
-([link](https://www.cs.toronto.edu/~kriz/cifar.html)) using three well-known ML libraries:  
+([link](https://www.cs.toronto.edu/~kriz/cifar.html)) using these well-known ML libraries:  
 
 - **PyTorch**  
 - **TensorFlow/Keras**  
